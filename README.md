@@ -97,7 +97,7 @@
     Hello!
     ```
     
-6. Optional: Go to **Settings > Audio** and set voice to **Zarvox**.
+6. Optional: Go to **Settings > Audio** and set voice to **Zarvox**. :)
 7. Download additional models via Open WebUI:
     - Select a model (e.g., `smollm:1.7b`).
     - Click **Pull from Ollama**.
